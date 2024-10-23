@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link {
+    font-family: "Oswald", sans-serif !important;
+}
+
+.nav-item :hover {
+    color: #78A206 !important;
+}
+
+.dropdown-menu h2 a {
+    font-family: "Oswald", sans-serif !important;
+}
+
+.header-icon a {
+    color: #9D9D9D !important;
+}
+
+.header-btn button {
+    background-color: #78A206 !important;
+    left: 70%;
+    top: -8%;
+}
+
+.dropdown-item {
+    font-family: "Poppins", sans-serif !important;
+}
+
+/* hero section */
+.organic-process h1 {
+    font-size: 65px;
+}
+
+.organic-process p {
+    font-size: 14px;
+}
+
+.savon-bg button {
+    font-family: "Oswald", sans-serif !important;
+}
+
+/* organic-food-farm */
+.organic-card h5 {
+    color: #6e9e28;
+}
+
+.organic-card span {
+    color: #6e9e28;
+}
+
+/* our products */
+
+.zigzag-img-section-1 {
+    top: 15%;
+    left: 8%;
+}
+
+.zigzag-img-2-section-1 {
+    top: 15%;
+    right: 8%;
+}
+
+.organic-products button {
+    border-color: #9D9D9D;
+}
+
+.organic-products button:hover {
+background-color: #0bfa3f; 
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.organic-products span {
+    color: #A9A9A9;
+}
+
+/* Organic Our Products cards */
+.cards-section-2 button {
+    top: 2%;
+    left: 4%;
+    background-color: #78A206 !important;
+}
+
+.this-summer-card {
+    background-color: #F6F5F1 !important;
+}
+
+.text-section h3 {
+    color: #78A206;
+}
+
+.cards-section-2 span {
+    color: #78A206;
+}
+
+/* savon-stories */
+
+.cold-process span {
+    color: #78A206;
+}
+
+h1 {
+    font-family: "Playfair Display SC", serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+span {
+    font-family: "Oswald", sans-serif !important;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+}
+
+button {
+    font-family: "Oswald", sans-serif !important;
+}
+
+.cold-process p {
+    font-size: 14px;
+}
+
+/* featured-product */
+
+.featured-product h4 {
+    color: #A9A9A9;
+}
+
+.fruit-card {
+    border: 1px solid #E6E6E6;
+    width: 340px;
+    background-color: #F6F5F1;
+}
+
+
+.fruit-text h3 {
+    color: #78A206;
+}
+
+.fruit-img img {
+    width: 85px;
+}
+
+/* .organic-from-blog */
+
+.from-our-blog {
+    color: #A9A9A9;
+}
+
+.zigzag-img {
+    top: 72%;
+    left: 10%;
+}
+
+.zigzag-img-2 {
+    top: 72%;
+    right: 8%;
+}
+
+.blog-card img {
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+}
+
+
+/* footer-section */
+
+.footer-bg {
+    background-image: url(../imgs/footer-bg.jpg);
+}
+
+::placeholder {
+    font-family: "Poppins", sans-serif;
+}
+
+.submit-btn {
+    top: -15%;
+    right: 1%;
+}
+
+.submit-btn button{
+    background-color: #78A206;
+}
+
+.icon {
+    border: 1px solid #EBEBEA;
+}
+
+.footer-products {
+    font-size: 13px;
+}
+
+.copyright span {
+    color: #78A206 !important;
+}
+
+.login a {
+    text-decoration: none;
+}

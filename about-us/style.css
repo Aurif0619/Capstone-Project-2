@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* nav section */
+.nav-link {
+  font-family: "Oswald", sans-serif !important;
+}
+
+.nav-color {
+  background-color: #F6F5F1;
+}
+
+.nav-item :hover {
+  color: #78A206 !important;
+}
+
+.dropdown-menu h2 a {
+  font-family: "Oswald", sans-serif !important;
+}
+
+.header-icon a {
+  color: #9D9D9D !important;
+}
+
+.header-btn button {
+  background-color: #78A206 !important;
+  left: 70%;
+  top: -8%;
+}
+
+.header-img a :hover {
+  color: #0000FF !important;
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Oswald", sans-serif !important;
+}
+
+p {
+  font-family: "Poppins", sans-serif !important;
+}
+
+span {
+  font-family: "Oswald", sans-serif !important
+}
+
+.about-section {
+  background-color: #F6F5F1;
+}
+
+.para {
+  color: #878787;
+}
+
+.about-section span {
+  color: #878787;
+}
+
+/* footer section*/
+
+.footer-section {
+  background-color: #F6F5F1;
+}
+
+.footer-section input {
+  background-color: #c7c7c7;
+}
+
+.footer-section p {
+  font-size: 13px !important;
+}
+
+::placeholder {
+  font-family: "Poppins", sans-serif;
+}
+
+.submit-btn {
+  top: -15%;
+  right: 1%;
+}
+
+.submit-btn button {
+  background-color: #78A206;
+}
+
+.icon {
+  border: 1px solid #EBEBEA;
+}
+
+.footer-products {
+  font-size: 13px;
+}
+
+.copyright span {
+  color: #78A206 !important;
+}
+
+.login a {
+  text-decoration: none;
+}
